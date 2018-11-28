@@ -1,3 +1,5 @@
 # academic-feedback-app
 This is a simple feedback app for academic puposes based on Java servelts and postgesql.
-This repo will be updated gradually when we move with new developments into the project.
+refer the report for detailed specifications.
+
+Team members: Silu Panda, Deepak Meena, Anshu Ahirwar, Deepesh Meena.
